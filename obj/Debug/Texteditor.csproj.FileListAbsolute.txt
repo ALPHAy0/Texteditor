@@ -1,0 +1,9 @@
+c:\users\florin\documents\visual studio 2015\Projects\Texteditor\Texteditor\bin\Debug\Texteditor.exe.config
+c:\users\florin\documents\visual studio 2015\Projects\Texteditor\Texteditor\bin\Debug\Texteditor.exe
+c:\users\florin\documents\visual studio 2015\Projects\Texteditor\Texteditor\bin\Debug\Texteditor.pdb
+c:\users\florin\documents\visual studio 2015\Projects\Texteditor\Texteditor\obj\Debug\Texteditor.csprojResolveAssemblyReference.cache
+c:\users\florin\documents\visual studio 2015\Projects\Texteditor\Texteditor\obj\Debug\Texteditor.Form1.resources
+c:\users\florin\documents\visual studio 2015\Projects\Texteditor\Texteditor\obj\Debug\Texteditor.Properties.Resources.resources
+c:\users\florin\documents\visual studio 2015\Projects\Texteditor\Texteditor\obj\Debug\Texteditor.csproj.GenerateResource.Cache
+c:\users\florin\documents\visual studio 2015\Projects\Texteditor\Texteditor\obj\Debug\Texteditor.exe
+c:\users\florin\documents\visual studio 2015\Projects\Texteditor\Texteditor\obj\Debug\Texteditor.pdb
